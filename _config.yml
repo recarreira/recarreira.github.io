@@ -2,11 +2,11 @@
 #      User Configs       #
 # ----------------------- #
 
-name: Mr Awesome
-title: Just a Legendary Person
-location: "Puppy Town - Rainbow City"
-email: all.about.u.project@gmail.com
-gravatar_photo: true
+name: Renata Carreira
+title: "Desenvolvedora, Carioca"
+location: Rio de Janeiro
+email: re.carreira@gmail.com
+gravatar_photo: false
 # don't forget to edit your "about" on _includes/about.md
 # for more information about markdown, consider giving a look at some examples and basics in the follow urls:
 # http://daringfireball.net/projects/markdown/basics
@@ -20,30 +20,27 @@ gravatar_photo: true
 # Put your usernames here. Only usernames, without links.
 
 social:
-  facebook:
-  flickr:
-  foursquare:
 # Note about github: write down your_username/your_repository if you want to show a repository page, instead of your github account.
-  github: recarreira/all_about_you
+  github: recarreira
+  facebook: re.carreira
+  flickr:
+  foursquare: renata_carreira
 # Note about google+: Your googleplus username should be that huge number in your url (example: for https://plus.google.com/u/1/112176414644635750645/posts, your username is 112176414644635750645).
 # For google+ pages, you may find this huge number written down 2 times. We only need it once.
-  googleplus: 112176414644635750645
-  lastfm: mr_awesome_aay
+  googleplus: 108053960108837767753
+  lastfm: recarreira
   linkedin:
-  quora:
+  quora: Renata-Carreira
   stackoverflow:
-  twitter: AboutProject
+  twitter: Renata_Carreira
 
 
 # Now you should put your links.
 
 links:
   -
-    title: "Put Stuff on My Cat! (caats <3)"
-    url: "http://stuffonmycat.com/"
-  -
-    title: "Funny Dog! (so my dog don't have to be jealous)"
-    url: "http://www.funnydogsite.com/"
+    title: "Blog sobre Desenvolvimento"
+    url: "http://dev.renatacarreira.com/"
 
 
 # ----------------------- #

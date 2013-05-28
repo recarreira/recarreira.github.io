@@ -1,3 +1,1 @@
-I love myself as much as I love candies. Yeah, I do love __candies__. And cats. And my dog. Also, _my dog love cats too_.
-
-Seriously, you should love me. You wont regret. I promisse.
+Gamer, developer, DCnauta, RPGista, viciada em series, que brinca de pintar quadros nas horas vagas e desconhece vida social fora de uma mesa de jogo.
