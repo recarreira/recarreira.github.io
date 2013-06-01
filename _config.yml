@@ -19,7 +19,7 @@ info:
   location: Rio de Janeiro
   code: Python, Django # Programmer? Put your programming languages and technologies here
   company:
-  university: Estácio de Sá
+  university: Estácio de Sá - Análise de Sistemas
   interests: Desenvolvimento web, Open Source, HQs, RPG, Videogames, Café
   email: contato@renatacarreira.com
 
@@ -32,7 +32,7 @@ info:
 social:
 # Note about github: write down your_username/your_repository if you want to show a repository page, instead of your github account.
   github: recarreira
-  facebook: re.carreira
+  facebook:
   flickr:
   foursquare: renata_carreira
   goodreads:
