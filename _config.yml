@@ -4,14 +4,24 @@
 
 name: Renata Carreira
 title: "Desenvolvedora, Carioca"
-location: Rio de Janeiro
-email: re.carreira@gmail.com
-gravatar_photo: false
+gravatar_email: re.carreira@gmail.com
 # don't forget to edit your "about" on _includes/about.md
 # for more information about markdown, consider giving a look at some examples and basics in the follow urls:
 # http://daringfireball.net/projects/markdown/basics
 # http://en.wikipedia.org/wiki/Markdown
 
+
+# ----------------------- #
+#       Info Configs      #
+# ----------------------- #
+
+info:
+  location: Rio de Janeiro
+  code: Python, Django # Programmer? Put your programming languages and technologies here
+  company:
+  university: Estácio de Sá
+  interests: Desenvolvimento web, Open Source, HQs, RPG, Videogames, Café
+  email: contato@renatacarreira.com
 
 # ----------------------- #
 #      Social Configs     #
@@ -25,14 +35,17 @@ social:
   facebook: re.carreira
   flickr:
   foursquare: renata_carreira
+  goodreads:
 # Note about google+: Your googleplus username should be that huge number in your url (example: for https://plus.google.com/u/1/112176414644635750645/posts, your username is 112176414644635750645).
 # For google+ pages, you may find this huge number written down 2 times. We only need it once.
   googleplus: 108053960108837767753
   lastfm: recarreira
-  linkedin:
+  instagram:
+  linkedin: renatacarreira
   quora: Renata-Carreira
   stackoverflow:
   twitter: Renata_Carreira
+  rss: http://feeds.feedburner.com/RenataCarreiraDev
 
 
 # Now you should put your links.
