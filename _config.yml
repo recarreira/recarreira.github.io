@@ -66,6 +66,9 @@ links:
 #      Project Configs    #
 # ----------------------- #
 
+# Google Analytics
+google_analytics_tracking_id: UA-42001979-1
+
 # Only make changes here if you _realy_ know what you're doing. Just an advice.
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile']
