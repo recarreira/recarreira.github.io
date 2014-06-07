@@ -18,9 +18,9 @@ gravatar_email: re.carreira@gmail.com
 info:
   location: Rio de Janeiro
   code: Python, Django # Programmer? Put your programming languages and technologies here
-  company:
+  company: Globosat
   university: Estácio de Sá - Análise de Sistemas
-  interests: Desenvolvimento web, Open Source, HQs, RPG, Videogames, Café
+  interests: Desenvolvimento Web, Open Source, HQs, Videogames, Pizza, RPG, Café (descafeinado)
   email: contato@renatacarreira.com
 
 # ----------------------- #
@@ -32,7 +32,7 @@ info:
 social:
 # Note about github: write down your_username/your_repository if you want to show a repository page, instead of your github account.
   github: recarreira
-  facebook:
+  facebook: re.carreira
   flickr:
   foursquare: renata_carreira
   goodreads:
@@ -40,29 +40,29 @@ social:
 # For google+ pages, you may find this huge number written down 2 times. We only need it once.
   googleplus: 108053960108837767753
   lastfm: recarreira
-  instagram:
+  instagram: recarreira
   linkedin: renatacarreira
   quora: Renata-Carreira
   stackoverflow:
   twitter: Renata_Carreira
-  rss: http://feeds.feedburner.com/RenataCarreiraDev
+  rss:
 
 
 # Now you should put your links.
 
 links:
   -
-    title: "Blog sobre Desenvolvimento"
+    title: "Dev - Blog sobre Desenvolvimento"
     url: "http://dev.renatacarreira.com/"
+  -
+    title: "[Off Topic] - Blog para as horas vagas"
+    url: "http://offtopic.renatacarreira.com"
   -
     title: "Learn How to Code"
     url: "http://learnhowtocode.in/"
   -
     title: "All About You - demo"
     url: "http://renatacarreira.com/all_about_you/"
-  -
-    title: "[Off Topic] - blog sobre tudo."
-    url: "http://offtopic.renatacarreira.com"
 
 
 # ----------------------- #
