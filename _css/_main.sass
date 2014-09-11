@@ -10,15 +10,21 @@
 @import url("http://fonts.googleapis.com/css?family=#{$text-font}:#{$text-weight}")
 @import url("http://fonts.googleapis.com/css?family=#{$text-font}:#{$text-weight+300}")
 
-
 @import "icons"
 
 body
   background-position: 0 0
   background-size: 100%
   background-color: $background-color
+  @if $background-image-small != none
+    background-image: url("../images/" + $background-image-small)
+
+
+.bg
   @if $background-image != none
     background-image: url("../images/" + $background-image)
+  background-position: 0 0
+  background-size: 100%
   
 
 #main-box

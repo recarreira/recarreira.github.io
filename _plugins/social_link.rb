@@ -9,11 +9,14 @@ module Jekyll
       "goodreads"     => "http://www.goodreads.com/user/show/%s",
       "googleplus"    => "https://plus.google.com/%s?rel=author",
       "instagram"     => "http://instagram.com/%s",
+      "rdio"          => "http://www.rdio.com/people/%s/",
+      "grooveshark"   => "http://grooveshark.com/#!/%s",
       "lastfm"        => "http://www.lastfm.com.br/user/%s",
       "linkedin"      => "http://www.linkedin.com/in/%s",
       "quora"         => "http://www.quora.com/%s",
       "stackoverflow" => "http://stackoverflow.com/users/%s/",
       "twitter"       => "http://twitter.com/%s",
+      "miiverse"      => "https://miiverse.nintendo.net/users/%s",
       "rss"           => "%s"
     }
 
