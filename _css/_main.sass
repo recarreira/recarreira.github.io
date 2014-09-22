@@ -16,24 +16,13 @@ body
   background-position: 0 0
   background-size: 100%
   background-color: $background-color
-  @if $background-image-small != none
-    background-image: url("../images/" + $background-image-small)
-
-
-.bg
   @if $background-image != none
     background-image: url("../images/" + $background-image)
-  background-position: 0 0
-  background-size: 100%
-  position: absolute
-  left: 0
-  right: 0
-  top: 0
-  bottom: 0
-  
+
 
 #main-box
   margin: 30px
+  margin-left: 15%
   padding: 30px
 
   background-color: $box-color
@@ -79,3 +68,5 @@ body
     border-right: none
     border-color: #DDD
   
+.container
+  width: 100%
