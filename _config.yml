@@ -3,7 +3,7 @@
 # ----------------------- #
 
 name: Renata Carreira
-title: "Desenvolvedora, Carioca"
+title:
 gravatar_email: contato@renatacarreira.com
 # don't forget to edit your "about" on _includes/about.md
 # for more information about markdown, consider giving a look at some examples and basics in the follow urls:
@@ -16,11 +16,10 @@ gravatar_email: contato@renatacarreira.com
 # ----------------------- #
 
 info:
-  location: Rio de Janeiro
-  code: Python, Django # Programmer? Put your programming languages and technologies here
+  location: Porto Alegre
+  code: Python, Java # Programmer? Put your programming languages and technologies here
   company: ThoughtWorks
-  university: Estácio de Sá - Análise de Sistemas
-  interests: Desenvolvimento Web, Open Source, HQs, Videogames, Pizza, RPG
+  interests: Desenvolvimento Web, Open Source, Soul, Jazz, Pintura, Gatos, HQs, Videogames, RPG
   email: contato@renatacarreira.com
 
 # ----------------------- #
@@ -39,9 +38,7 @@ social:
   goodreads:
 # Note about google+: Your googleplus username should be that huge number in your url (example: for https://plus.google.com/u/1/112176414644635750645/posts, your username is 112176414644635750645).
 # For google+ pages, you may find this huge number written down 2 times. We only need it once.
-  googleplus: 108053960108837767753
   lastfm: recarreira
-  grooveshark: recarreira
   rdio: RenataCarreira
   instagram: recarreira
   flickr: recarreira
@@ -57,8 +54,8 @@ links:
     title: "Dev - Blog sobre Desenvolvimento"
     url: "http://dev.renatacarreira.com/"
   -
-    title: "[Off Topic] - Blog para as horas vagas"
-    url: "http://offtopic.renatacarreira.com"
+    title: "Rabiscos - tumblr de desenhos e rabiscos"
+    url: "http://rabiscos.renatacarreira.com"
   -
     title: "Learn How to Code"
     url: "http://learnhowtocode.in/"
